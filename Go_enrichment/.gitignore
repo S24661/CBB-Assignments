@@ -1,0 +1,7 @@
+# Large genome files
+*.fa.gz
+*.bgzip.fa.gz
+hg38.chrom.sizes
+tss_upstream_500.fa
+nrf1_dreg_results.txt
+*.tmp
