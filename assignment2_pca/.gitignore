@@ -1,0 +1,4 @@
+# Large compressed files
+*.gz
+*.tmp
+.ipynb_checkpoints/
